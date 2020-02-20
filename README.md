@@ -78,7 +78,7 @@ pr前请同步一下fork，timeline更新频率较高，不然会造成大量冲
 #### （一）官方媒体（微博、微信公众号、网站）报道
 * [人民日报微博](https://weibo.com/rmrb?topnav=1&wvr=6&topsug=1&is_hot=1)，[人民网](http://www.people.com.cn/)<br>
 * [新华视点微博](https://weibo.com/xinhuashidian?is_all=1)，[新华网](http://www.news.cn/)<br>
-* [央视新闻微博](https://weibo.com/cctvxinwen)，[央视网](http://tv.cctv.com/)<br>
+* [央视新闻微博](https://weibo.com/cctvxinwen)，[央视网](http://tv.cctv.com/)，[新闻一加一栏目微博](https://weibo.com/yijiayijia?profile_ftype=1&is_all=1#_0)<br>
 * [每日新闻联播文字稿](http://m.ab3.com.cn/)<br>
 * [环球时报微博](https://weibo.com/huanqiushibaoguanwei?refer_flag=1001030103_&is_hot=1)，[环球网](https://www.huanqiu.com/)<br>
 
@@ -141,7 +141,7 @@ pr前请同步一下fork，timeline更新频率较高，不然会造成大量冲
 * [新型冠状病毒肺炎疫情|实时更新|导航站点](http://jiayou.beiyouren.cn/jiayou/)：据说是北邮的学生做的很全面！<br>
 
 ### 三、社会舆情
-#### （一）普通个体（封城日记等）【注：2月6日，豆瓣暂停日记功能】
+#### （一）普通个体（封城日记等）【注：2月6日-20日，豆瓣曾暂停日记功能】
 * [豆瓣豆列-个体叙述](https://www.douban.com/doulist/122759092/)<br>
 * [豆瓣豆列-瘟疫时期的社会](https://www.douban.com/doulist/122857988/)<br>
 * [豆瓣豆列-人走了没住上院](https://www.douban.com/doulist/122779098/)：那些不在官方统计数据里的CoV相关死亡案例<br>
